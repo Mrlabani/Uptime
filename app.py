@@ -5,7 +5,7 @@ import logging
 from threading import Thread
 
 # Configuration
-TARGET_URL = 'http://example.com'  # Replace with your target URL
+TARGET_URL = 'https://064340c9-5b89-4dcb-9b5b-bcf49ef1665a-00-329qi2ydkhy9u.pike.replit.dev'  # Replace with your target URL
 CHECK_INTERVAL = 60  # Check every 60 seconds
 
 # Initialize Flask app
